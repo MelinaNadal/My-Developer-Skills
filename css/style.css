@@ -14,7 +14,8 @@ body {
     
 }
 main {
-    width: 30%;
+    border:3px dotted red;
+    width: auto;
 }
 
 h1 {
