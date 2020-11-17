@@ -14,7 +14,7 @@ body {
     
 }
 main {
-    border:3px dotted red;
+    border:3px inset grey;
     width: auto;
 }
 
@@ -40,8 +40,11 @@ li {
     color: #fac879;
 }
 input, button {
+    ;
+    margin-top: 50px;
     border: 3px solid #94c47e;
     height: 40px;
+    
 
 
 }
